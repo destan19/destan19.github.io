@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: 特征库下载
+permalink: /feature/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+特征库列表：
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+{% assign feature_files = site.static_files | where: "oaf", true %}
+{% for feature in feature_files %}
+ [{{feature.name}}]({{ feature.path }})
+{% endfor %}
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
