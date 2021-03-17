@@ -17,6 +17,14 @@ categories: appfilter
 视频 抖音小视频 斗鱼直播 腾讯视频 爱奇艺 火山小视频 YY 微视 虎牙直播 快手 小红书 ...
 {% endhighlight %}
 
+文档完善中...
+
+[软件截图](/appfilter)
 
 [特征库下载](/feature)
+
+OpenWrt刷机教程可以关注公众号获取
+
+![](/assets/img/qrcode-openwrt.jpg)
+
 

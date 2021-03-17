@@ -34,15 +34,25 @@ plugins:
 
 defaults:
 - scope:
-    path: "assets/img"
+    path: "assets/img/oaf"
   values:
-    image: true
+    oaf_image: true
 
 - scope:
-    path: "assets/oaf"
+    path: "assets/oaf/feature"
   values:
     oaf: true
 
+- scope:
+    path: "assets/oaf/bin/AC2100"
+  values:
+    ac2100: true
+
+- scope:
+    path: "assets/oaf/bin/K2P"
+  values:
+    k2p: true
+   
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
