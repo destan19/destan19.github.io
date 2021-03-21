@@ -13,7 +13,14 @@ permalink: /download-bin/
 
 {% endfor %}
 
+GL-MT1300:
 
+{% assign bins = site.static_files | where: "mt1300", true %}
+{% for bin in bins %}
+ [{{bin.name}}]({{ bin.path }})
+
+
+{% endfor %}
 K2P:
 
 敬请期待

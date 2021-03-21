@@ -49,6 +49,11 @@ defaults:
     ac2100: true
 
 - scope:
+    path: "assets/oaf/bin/MT1300"
+  values:
+    mt1300: true
+
+- scope:
     path: "assets/oaf/bin/K2P"
   values:
     k2p: true
