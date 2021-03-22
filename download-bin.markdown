@@ -4,6 +4,8 @@ title: 固件下载
 permalink: /download-bin/
 ---
 
+[固件发布说明](/assets/oaf/bin/README.txt)
+
 红米AC2100:
 
 {% assign bins = site.static_files | where: "ac2100", true %}
