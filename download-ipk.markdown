@@ -1,0 +1,42 @@
+---
+layout: page
+title: 插件下载
+permalink: /download-ipk/
+---
+### 说明
+通过插件安装需要内核版本号相同或者相近，并且内核相关配置要一致  
+插件基于lean的源码编译，没有修改任何内核配置。  
+在安装之前务必确认版本号是否一致！
+
+#### 7621系列
+> 支持的设备 RM AC2100, Phicomm K2P, Newifi3, YouHua WR1200JS
+
+{% assign ipks = site.static_files | where: "mt7621", true %}
+{% for ipk in ipks %}
+ [{{ipk.name}}]({{ ipk.path }})
+{% endfor %}
+
+
+#### X86-64
+
+{% assign ipks = site.static_files | where: "x86-64", true %}
+{% for ipk in ipks %}
+ [{{ipk.name}}]({{ ipk.path }})
+
+{% endfor %}
+
+#### 斐讯N1盒子
+
+{% assign ipks = site.static_files | where: "n1", true %}
+{% for ipk in ipks %}
+ [{{ipk.name}}]({{ ipk.path }})
+
+{% endfor %}
+
+#### 7620系列
+> 支持的设备 极路由1S、y1、y1s等
+
+{% assign ipks = site.static_files | where: "mt7620", true %}
+{% for ipk in ipks %}
+ [{{ipk.name}}]({{ ipk.path }})
+{% endfor %}

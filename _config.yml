@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: OpenAppFilter
-email: destan19@126.com
+title: 应用过滤
+#email: destan19@126.com
 description: >- # this means to ignore newlines until "baseurl:"
   应用过滤
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: destan19
+#twitter_username: destan19
 github_username:  destan19
 
 # Build settings
@@ -57,7 +57,25 @@ defaults:
     path: "assets/oaf/bin/K2P"
   values:
     k2p: true
-   
+
+- scope:
+    path: "assets/oaf/ipk/mt7621"
+  values:
+    mt7621: true   
+
+- scope:
+    path: "assets/oaf/ipk/mt7620"
+  values:
+    mt7620: true   
+
+- scope:
+    path: "assets/oaf/ipk/x86-64"
+  values:
+    x86-64: true   
+- scope:
+    path: "assets/oaf/ipk/n1"
+  values:
+    n1: true   
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
