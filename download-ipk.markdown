@@ -33,6 +33,14 @@ permalink: /download-ipk/
 
 {% endfor %}
 
+#### 友善R2S
+
+{% assign ipks = site.static_files | where: "r2s", true %}
+{% for ipk in ipks %}
+ [{{ipk.name}}]({{ ipk.path }})
+
+{% endfor %}
+
 #### 7620系列
 > 支持的设备 极路由1S、y1、y1s等
 

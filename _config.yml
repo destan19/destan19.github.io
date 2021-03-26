@@ -76,6 +76,10 @@ defaults:
     path: "assets/oaf/ipk/n1"
   values:
     n1: true   
+- scope:
+    path: "assets/oaf/ipk/r2s"
+  values:
+    r2s: true  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
