@@ -15,12 +15,8 @@ permalink: /download-bin/
 {% endfor %}
 
 X86:
-
-{% assign bins = site.static_files | where: "bin_x86", true %}
-{% for bin in bins %}
- [{{bin.name}}]({{ bin.path }})
-
-{% endfor %}
+文件过大，请在网盘下载
+链接：https://eyun.baidu.com/s/3deIrSE 密码：29At
 
 GL-MT1300:
 
