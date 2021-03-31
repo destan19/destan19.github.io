@@ -49,6 +49,16 @@ defaults:
     ac2100: true
 
 - scope:
+    path: "assets/oaf/bin/X86"
+  values:
+    bin_x86: true
+
+- scope:
+    path: "assets/oaf/bin/mt7620"
+  values:
+    bin_mt7620: true
+
+- scope:
     path: "assets/oaf/bin/MT1300"
   values:
     mt1300: true

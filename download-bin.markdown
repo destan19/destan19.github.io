@@ -12,6 +12,13 @@ permalink: /download-bin/
 {% for bin in bins %}
  [{{bin.name}}]({{ bin.path }})
 
+{% endfor %}
+
+X86:
+
+{% assign bins = site.static_files | where: "bin_x86", true %}
+{% for bin in bins %}
+ [{{bin.name}}]({{ bin.path }})
 
 {% endfor %}
 
@@ -23,11 +30,17 @@ GL-MT1300:
 
 
 {% endfor %}
+
+
+
+7620系列:
+
+{% assign bins = site.static_files | where: "bin_mt7620", true %}
+{% for bin in bins %}
+ [{{bin.name}}]({{ bin.path }})
+{% endfor %}
+
 K2P:
-
-敬请期待
-
-X86:
 
 敬请期待
 
