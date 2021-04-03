@@ -26,6 +26,14 @@ X86:
 iso文件请在网盘下载
 链接：https://eyun.baidu.com/s/3deIrSE 密码：29At
 
+Newifi3:
+
+{% assign bins = site.static_files | where: "newifi3", true %}
+{% for bin in bins %}
+ [{{bin.name}}]({{ bin.path }})
+
+
+{% endfor %}
 GL-MT1300:
 
 {% assign bins = site.static_files | where: "mt1300", true %}
