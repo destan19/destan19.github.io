@@ -23,8 +23,6 @@ X86:
 
 {% endfor %}
 
-iso文件请在网盘下载
-链接：https://eyun.baidu.com/s/3deIrSE 密码：29At
 
 Newifi3:
 
