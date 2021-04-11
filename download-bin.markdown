@@ -6,6 +6,12 @@ permalink: /download-bin/
 
 [固件发布说明](/assets/oaf/bin/README.txt)
 
+发布的固件集成了应用过滤功能，但固件不会一一测试，如果升级或刷机遇到的问题与发布者无关。  
+如果这里没有你想要的固件，可以去恩山论坛搜索OpenWrt应用过滤固件  
+以下为恩山论坛集成了应用过滤的帖子，可以选择自己合适的固件  
+- https://www.right.com.cn/forum/thread-4049182-1-2.html
+- https://www.right.com.cn/forum/thread-4066849-1-1.html
+
 红米AC2100:
 
 {% assign bins = site.static_files | where: "ac2100", true %}
