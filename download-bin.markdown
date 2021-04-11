@@ -58,8 +58,12 @@ GL-MT1300:
 
 K2P:
 
-敬请期待
+{% assign bins = site.static_files | where: "k2p", true %}
+{% for bin in bins %}
+ [{{bin.name}}]({{ bin.path }})
 
+
+{% endfor %}
 
 
 7621系列:
