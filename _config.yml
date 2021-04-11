@@ -62,7 +62,10 @@ defaults:
     path: "assets/oaf/bin/mt7620"
   values:
     bin_mt7620: true
-
+- scope:
+    path: "assets/oaf/bin/mt7621"
+  values:
+    bin_mt7621: true
 - scope:
     path: "assets/oaf/bin/MT1300"
   values:

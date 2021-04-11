@@ -60,6 +60,16 @@ K2P:
 
 敬请期待
 
+
+
+7621系列:
+
+{% assign bins = site.static_files | where: "bin_mt7621", true %}
+{% for bin in bins %}
+ [{{bin.name}}]({{ bin.path }})
+{% endfor %}
+
+
 R2S:
 
 敬请期待
