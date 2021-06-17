@@ -29,7 +29,9 @@ permalink: /device/
 
 ### 购买方式
 加微信： linux4096 
-备注： 路由器购买
-![](https://gitee.com/destan19/picture/raw/master/picgo/20210520151219.png)
-扫码加微信
+备注： 路由器购买  
+
+![](https://gitee.com/destan19/picture/raw/master/picgo/20210520151219.png)  
+
+扫码加微信  
 
