@@ -55,3 +55,12 @@ permalink: /download-ipk/
 {% for ipk in ipks %}
  [{{ipk.name}}]({{ ipk.path }})
 {% endfor %}
+
+#### 其他插件
+> 第三方插件（主题）
+
+{% assign ipks = site.static_files | where: "other", true %}
+{% for ipk in ipks %}
+ [{{ipk.name}}]({{ ipk.path }})
+{% endfor %}
+
