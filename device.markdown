@@ -23,12 +23,9 @@ permalink: /device/
 
 - 其他支持OpenWrt系统的设备
 
-### 关于价格
-- 只收取刷机辛苦费29元，设备费用按市场价格算
-- 如需要定制，根据复杂度收费
 
 ### 购买方式
-加微信： linux4096 
+加微： linux4096 
 备注： 路由器购买  
 
 ![](https://gitee.com/destan19/picture/raw/master/picgo/20210520151219.png)  
