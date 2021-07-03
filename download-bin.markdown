@@ -12,6 +12,13 @@ permalink: /download-bin/
 - https://www.right.com.cn/forum/thread-4049182-1-2.html
 - https://www.right.com.cn/forum/thread-4066849-1-1.html
 
+### 5.0.2版本下载地址：
+
+链接：https://pan.baidu.com/s/1ZNVTy6CsHgZqyirkle0wwQ   
+提取码：8rqs  
+
+### 历史版本  
+
 红米AC2100:
 
 {% assign bins = site.static_files | where: "ac2100", true %}
@@ -74,9 +81,8 @@ K2P:
 {% endfor %}
 
 
-R2S:
 
-敬请期待
+
 
 OpenWrt刷机教程可以关注公众号获取
 
