@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 软件截图
+title: 简介
 permalink: /appfilter/
 ---
 
