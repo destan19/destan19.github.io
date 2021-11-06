@@ -6,9 +6,7 @@ layout: default
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
-
-  <h4>应用过滤源码地址(喜欢麻烦给个star)</h4>
-  <a href="https://github.com/destan19/OpenAppFilter">https://github.com/destan19/OpenAppFilter</a>
+<h4>文章列表：</h4>
   {%- if site.posts.size > 0 -%}
 
   <ul class="post-list">
@@ -28,6 +26,9 @@ layout: default
     {%- endfor -%}
   </ul>
 {%- endif -%}
+
+
+<h4>软件截图：(5.0)</h4>
   {% assign imgs = site.static_files | where: "oaf_image", true %}
   {% for img in imgs %}
 

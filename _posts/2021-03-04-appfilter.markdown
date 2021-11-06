@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "应用过滤简介"
+title:  "OpenWrt应用过滤简介"
 date:   2021-03-04 01:03:30 -0800
 categories: appfilter
 ---
-应用过滤是一款OpenWrt上网控制插件，简称OAF，类似于企业级路由器的上网行为管理。
-
+应用过滤是一款OpenWrt上网控制插件，底层核心代码已经开源(v5.0)
 
 [源码地址](https://github.com/destan19/OpenAppFilter)
 
@@ -27,12 +26,5 @@ categories: appfilter
     淘宝 京东 拼多多 唯品会 美团 闲鱼 朴朴超市 当当网 苏宁易购 等
 
 
-
-文档完善中...
-
-
-OpenWrt刷机教程可以关注公众号获取
-
-![](/assets/img/qrcode-openwrt.jpg)
 
 
