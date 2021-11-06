@@ -1,0 +1,127 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: 应用过滤
+#email: destan19@126.com
+description: >- # this means to ignore newlines until "baseurl:"
+  应用过滤
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: destan19
+#github_username:  destan19
+
+# Build settings
+theme: minima
+plugins:
+- jekyll-feed
+
+defaults:
+- scope:
+    path: "assets/img/oaf"
+  values:
+    oaf_image: true
+
+- scope:
+    path: "assets/oaf/open_feature"
+  values:
+    open_feature: true
+- scope:
+    path: "assets/oaf/feature"
+  values:
+    feature: true
+
+- scope:
+    path: "assets/oaf/bin/AC2100"
+  values:
+    ac2100: true
+
+- scope:
+    path: "assets/oaf/bin/Newifi3"
+  values:
+    newifi3: true
+
+- scope:
+    path: "assets/oaf/bin/X86"
+  values:
+    bin_x86: true
+
+- scope:
+    path: "assets/oaf/bin/mt7620"
+  values:
+    bin_mt7620: true
+- scope:
+    path: "assets/oaf/bin/mt7621"
+  values:
+    bin_mt7621: true
+- scope:
+    path: "assets/oaf/bin/MT1300"
+  values:
+    mt1300: true
+
+- scope:
+    path: "assets/oaf/bin/K2P"
+  values:
+    k2p: true
+
+- scope:
+    path: "assets/oaf/ipk/mt7621"
+  values:
+    mt7621: true   
+
+- scope:
+    path: "assets/oaf/ipk/mt7620"
+  values:
+    mt7620: true   
+
+- scope:
+    path: "assets/oaf/ipk/x86-64"
+  values:
+    x86-64: true   
+- scope:
+    path: "assets/oaf/ipk/n1"
+  values:
+    n1: true   
+- scope:
+    path: "assets/oaf/ipk/r2s"
+  values:
+    r2s: true  
+- scope:
+    path: "assets/oaf/ipk/other"
+  values:
+    other: true     
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
