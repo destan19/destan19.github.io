@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 特征库下载
+title: 特征库
 permalink: /feature/
 ---
 
 ### 特征库列表：
 
-#### v6.0版本  
+#### 非开源版本(FROS)
 更新日志：  
 - 1101更新内容  
 增加英雄联盟手游  
@@ -22,13 +22,11 @@ permalink: /feature/
 {% endfor %}
 
 
-#### v5.0版本
+#### 开源版本
 
 {% assign feature_files = site.static_files | where: "open_feature", true %}
 {% for feature in feature_files %}
  [{{feature.name}}]({{ feature.path }})
 {% endfor %}
 
-OpenWrt刷机教程可以关注公众号获取
 
-![](/assets/img/qrcode-openwrt.jpg)

@@ -20,6 +20,3 @@ make menuconfig
 {% endhighlight %}
 
 
-OpenWrt刷机教程可以关注公众号获取
-
-![](/assets/img/qrcode-openwrt.jpg)
