@@ -1,15 +1,17 @@
 ---
 layout: page
-title: 固件下载
+title: 固件
 permalink: /download-bin/
 ---
 
 ### v6.0.x版本固件下载地址：
 
 固件包含应用过滤、上网认证、游戏控制、上网审计等插件，升级前务必先阅读网盘中的说明文件。  
+2021/12/31更新(公众号文章中的网盘连接被封，请用以下链接)
 
-链接：https://pan.baidu.com/s/1qm1x_89Kz76y_R-ApY13IA   
-提取码：fros   
+链接：https://pan.baidu.com/s/1XRP3m0fYX3nS7_nV6ws-lw   
+提取码：fros 
+
 
 ### 注册码获取
 
