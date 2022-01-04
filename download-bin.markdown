@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 固件
+title: 固件和注册
 permalink: /download-bin/
 ---
 
@@ -17,16 +17,14 @@ permalink: /download-bin/
 - 注册码获取
 
 方式一  
-分享微信公众号(OpenWrt)的任意一篇文章到朋友圈，获得3个以上赞截图。  
+分享微信公众号(OpenWrt)的任意一篇文章到朋友圈，获得28个赞截图。  
 ![](https://gitee.com/destan19/picture/raw/master/picgo/qrcode-openwrt.jpg)  
 
 方式二  
-如果你想支持下作者，可以打赏任意金额，不要超过20（打赏二维码在网盘根目录），打赏后截图。  
+开发不易，你也可以打赏一杯奶茶费给作者，打赏后截图。  
 ![](https://gitee.com/destan19/picture/raw/master/picgo/202111111359022.png)  
 
 发送截图到作者微信（打赏或朋友圈都可以），并发送你的设备id。一般24小时内会统一处理微信消息，并给出注册码。  
-
-设备id在系统-->fros设置中，如果出现id为空，可以恢复下出厂设置试试。  
 
 -联系作者
 注册码、固件定制、商务合作可以加微(linux4096)  
