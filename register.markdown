@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 打赏作者
-permalink: /download-bin/
+permalink: /register/
 ---
 
 FROS系统开发需要消耗大量时间，部分高级功能需要注册码才能使用，比如特征库在线更新。
