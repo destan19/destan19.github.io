@@ -1,14 +1,26 @@
 ---
 layout: page
-title: 简介
+title: 系统简介
 permalink: /appfilter/
 ---
 
-{% assign imgs = site.static_files | where: "oaf_image", true %}
-{% for img in imgs %}
-![Alt text]({{ img.path }})
+FROS是基于OpenWrt开发的一款路由系统，在OpenWrt基础上加入了大量企业级路由功能。
 
-{% endfor %}
+- 系统特色:   
+1. 前后端分离的web架构，可扩展性强。  
+2. 后台加入大量库的封装，开发效率大大提升，功能模块化。  
+3. 后端模块采用c语言开发，相比luci响应效率大大提升，系统镜像小，可以兼容小flash设备。  
+4. web采用全新UI，简单、易用、美观。  
+5. 针对应用过滤进行了深度重构，支持多规则、多用户、多时间段配置，对标企业级上网行为管理。  
+6. 上网审计功能可视化，可以精准的统计每个用户上网行为。  
+7. 兼容OpenWrt原生web，支持双UI共存。  
+
+- 支持设备
+能够刷OpenWrt系统的都可以支持，发布的固件包含了热门机型  
+比如红米AC2100、k2p、newifi3、x86、r2s、r4s、k3、竞斗云、小米R4A、极路由等  
 
 
-![](/assets/img/qrcode-openwrt.jpg)
+- 定制开发
+该系统后台框架已经比较完善，加入新功能非常方便，如果有企业或者个人想要定制或者深度合作可以联系作者。  
+
+微信: linux4096 (备注：定制开发)
