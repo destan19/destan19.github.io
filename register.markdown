@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 打赏作者
+title: 设备注册
 permalink: /register/
 ---
 
