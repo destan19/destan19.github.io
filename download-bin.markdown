@@ -4,6 +4,12 @@ title: 固件下载
 permalink: /download-bin/
 ---
 
+2.0.2部分产品固件正在修复bug中，暂时从网盘移除(2022.2.21)  
+
+热门产品固件(最新版本):
+ [{{openwrt-ramips-mt7621-phicomm_k2p-squashfs-sysupgrade.bin}}](http://fros.org.cn/fros/openwrt-ramips-mt7621-phicomm_k2p-squashfs-sysupgrade.bin)
+
+
 最新FROS固件下载地址：
 
 - FROS v2.0  
