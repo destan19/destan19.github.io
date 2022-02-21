@@ -30,8 +30,8 @@ X86(64位):
 [openwrt-ramips-mt7621-xiaomi_mi-router-4a-gigabit-squashfs-sysupgrade.bin](http://175.178.71.82:88/fros/openwrt-ramips-mt7621-xiaomi_mi-router-4a-gigabit-squashfs-sysupgrade.bin)  
 
 竞斗云:  
-[openwrt-ipq40xx-p2w_r619ac-squashfs-nand-sysupgrade.bin](http://175.178.71.82:88/fros/openwrt-ipq40xx-p2w_r619ac-squashfs-nand-sysupgrade.bin) 
-[openwrt-ipq40xx-p2w_r619ac-128m-squashfs-nand-sysupgrade.bin](http://175.178.71.82:88/fros/openwrt-ipq40xx-p2w_r619ac-128m-squashfs-nand-sysupgrade.bin) 
+[openwrt-ipq40xx-p2w_r619ac-squashfs-nand-sysupgrade.bin](http://175.178.71.82:88/fros/openwrt-ipq40xx-p2w_r619ac-squashfs-nand-sysupgrade.bin)  
+[openwrt-ipq40xx-p2w_r619ac-128m-squashfs-nand-sysupgrade.bin](http://175.178.71.82:88/fros/openwrt-ipq40xx-p2w_r619ac-128m-squashfs-nand-sysupgrade.bin)  
 
 小米R3GV2:  
 [openwrt-ramips-mt7621-xiaomi_mi-router-3g-v2-squashfs-sysupgrade.bin](http://175.178.71.82:88/fros/openwrt-ramips-mt7621-xiaomi_mi-router-3g-v2-squashfs-sysupgrade.bin)  
