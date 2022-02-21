@@ -18,10 +18,6 @@ X86(64位):
 [openwrt-ramips-mt7621-xiaomi_redmi-router-ac2100-initramfs-kernel.bin (breed刷机底包)](http://f175.178.71.82:88/fros/openwrt-ramips-mt7621-xiaomi_redmi-router-ac2100-initramfs-kernel.bin)  
 
 
-斐讯K2P:    
-[openwrt-ramips-mt7621-phicomm_k2p-squashfs-sysupgrade.bin](http://175.178.71.82:88/fros/openwrt-ramips-mt7621-phicomm_k2p-squashfs-sysupgrade.bin)  
-
-
 斐讯K3:    
 [openwrt-bcm53xx-generic-phicomm_k3-squashfs.trx](http://175.178.71.82:88/fros/openwrt-bcm53xx-generic-phicomm_k3-squashfs.trx)  
 
