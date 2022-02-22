@@ -33,6 +33,13 @@ X86(64位):
 [openwrt-ipq40xx-p2w_r619ac-squashfs-nand-sysupgrade.bin](http://175.178.71.82:88/fros/openwrt-ipq40xx-p2w_r619ac-squashfs-nand-sysupgrade.bin)  
 [openwrt-ipq40xx-p2w_r619ac-128m-squashfs-nand-sysupgrade.bin](http://175.178.71.82:88/fros/openwrt-ipq40xx-p2w_r619ac-128m-squashfs-nand-sysupgrade.bin)  
 
+RockChip R4S:  
+
+[openwrt-rockchip-armv8-friendlyarm_nanopi-r4s-ext4-sysupgrade.img.gz](http://175.178.71.82:88/fros/openwrt-rockchip-armv8-friendlyarm_nanopi-r4s-ext4-sysupgrade.img.gz)    
+
+[openwrt-rockchip-armv8-friendlyarm_nanopi-r4s-squashfs-sysupgrade.img.gz](http://175.178.71.82:88/fros/openwrt-rockchip-armv8-friendlyarm_nanopi-r4s-squashfs-sysupgrade.img.gz)  
+  
+
 小米R3GV2:  
 [openwrt-ramips-mt7621-xiaomi_mi-router-3g-v2-squashfs-sysupgrade.bin](http://175.178.71.82:88/fros/openwrt-ramips-mt7621-xiaomi_mi-router-3g-v2-squashfs-sysupgrade.bin)  
 
