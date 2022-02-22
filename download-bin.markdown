@@ -4,7 +4,7 @@ title: 固件下载
 permalink: /download-bin/
 ---
 
-**登录信息**
+**登录信息**  
 用户名: admin 密码: admin   
 OpenWrt界面： root password    
 
@@ -49,9 +49,8 @@ RockChip R4S:
 [openwrt-ramips-mt7621-xiaomi_mi-router-3g-v2-squashfs-sysupgrade.bin](http://175.178.71.82:88/fros/openwrt-ramips-mt7621-xiaomi_mi-router-3g-v2-squashfs-sysupgrade.bin)  
 
 
-**固件下载地址**
+**固件下载地址**  
 如果最新版本没有你的产品固件，可以在旧版本中找找  
-
 - FROS v2.0  
 链接：https://eyun.baidu.com/s/3d1IWVW  
 密码：fros  
