@@ -7,10 +7,11 @@ permalink: /download-bin/
 **登录信息**  
 用户名: admin 密码: admin   
 OpenWrt界面： root password    
+
 **热门路由器固件(最新版本)**  
 X86(64位):  
 [openwrt-x86-64-generic-squashfs-combined-efi.img.gz (web升级固件)](http://175.178.71.82:88/fros/openwrt-x86-64-generic-squashfs-combined-efi.img.gz)  
-[openwrt-x86-64-generic-squashfs-combined-efi.vmdk (vmware虚拟机)](http://175.178.71.82:88/fros/openwrt-x86-64-generic-squashfs-combined-efi.vmdk) 
+[openwrt-x86-64-generic-squashfs-combined-efi.vmdk (vmware虚拟机)](http://175.178.71.82:88/fros/openwrt-x86-64-generic-squashfs-combined-efi.vmdk)  
 红米AC2100:  
 [openwrt-ramips-mt7621-xiaomi_redmi-router-ac2100-squashfs-sysupgrade.bin (web升级固件)](http://175.178.71.82:88/fros/openwrt-ramips-mt7621-xiaomi_redmi-router-ac2100-squashfs-sysupgrade.bin)  
 [openwrt-ramips-mt7621-xiaomi_redmi-router-ac2100-initramfs-kernel.bin (breed刷机底包)](http://175.178.71.82:88/fros/openwrt-ramips-mt7621-xiaomi_redmi-router-ac2100-initramfs-kernel.bin)  
@@ -29,6 +30,7 @@ RockChip R4S:
 [openwrt-rockchip-armv8-friendlyarm_nanopi-r4s-squashfs-sysupgrade.img.gz](http://175.178.71.82:88/fros/openwrt-rockchip-armv8-friendlyarm_nanopi-r4s-squashfs-sysupgrade.img.gz)  
 小米R3GV2:  
 [openwrt-ramips-mt7621-xiaomi_mi-router-3g-v2-squashfs-sysupgrade.bin](http://175.178.71.82:88/fros/openwrt-ramips-mt7621-xiaomi_mi-router-3g-v2-squashfs-sysupgrade.bin)  
+
 **固件下载地址**  
 如果最新版本没有你的产品固件，可以在旧版本中找找  
 - FROS v2.0  
