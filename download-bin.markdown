@@ -41,5 +41,15 @@ RockChip R4S:
 链接：[https://pan.baidu.com/s/1XRP3m0fYX3nS7_nV6ws-lw ](https://pan.baidu.com/s/1XRP3m0fYX3nS7_nV6ws-lw)      
 提取码：fros  
 
-**版本更新**  
-关注OpenWrt微信公众号获取实时版本发布信息
+**版本更新记录**  
+- FROS2.0.2(2022.2.16)  
+更新内容：  
+1. 支持无线配置  
+2. 优化特征码格式  
+3. 集成游戏管控openwrt插件  
+
+- FROS2.0.1(2022.1)  
+1. 加入全新ui，兼容luci界面  
+2. 新ui包含基础功能配置，网络设置、系统状态、行为管理、升级等  
+
+关注OpenWrt微信公众号获取实时版本发布信息  
