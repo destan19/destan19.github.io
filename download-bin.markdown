@@ -4,10 +4,14 @@ title: 固件下载
 permalink: /download-bin/
 ---
 
+**登录信息**
+用户名: admin 密码: admin   
+OpenWrt界面： root password    
+
 2.0.2部分产品固件正在修复bug中，暂时从网盘移除(2022.2.21)  
 
 
-热门路由器固件(最新版本):  
+**热门路由器固件(最新版本)**  
 
 X86(64位):  
 [openwrt-x86-64-generic-squashfs-combined-efi.img.gz (web升级固件)](http://175.178.71.82:88/fros/openwrt-x86-64-generic-squashfs-combined-efi.img.gz)  
@@ -33,7 +37,9 @@ X86(64位):
 [openwrt-ramips-mt7621-xiaomi_mi-router-3g-v2-squashfs-sysupgrade.bin](http://175.178.71.82:88/fros/openwrt-ramips-mt7621-xiaomi_mi-router-3g-v2-squashfs-sysupgrade.bin)  
 
 
-固件下载地址：
+**固件下载地址**
+如果最新版本没有你的产品固件，可以在旧版本中找找  
+
 - FROS v2.0  
 链接：https://eyun.baidu.com/s/3d1IWVW  
 密码：fros  
