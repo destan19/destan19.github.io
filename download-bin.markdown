@@ -13,7 +13,7 @@ X86(64位):
 [openwrt-x86-64-generic-squashfs-combined-efi.vmdk (vmware虚拟机)](http://175.178.71.82:88/fros/openwrt-x86-64-generic-squashfs-combined-efi.vmdk)  
 红米AC2100:  
 [openwrt-ramips-mt7621-xiaomi_redmi-router-ac2100-squashfs-sysupgrade.bin (web升级固件)](http://175.178.71.82:88/fros/openwrt-ramips-mt7621-xiaomi_redmi-router-ac2100-squashfs-sysupgrade.bin)  
-[openwrt-ramips-mt7621-xiaomi_redmi-router-ac2100-initramfs-kernel.bin (breed刷机底包)](http://175.178.71.82:88/fros/openwrt-ramips-mt7621-xiaomi_redmi-router-ac2100-initramfs-kernel.bin) 
+[openwrt-ramips-mt7621-xiaomi_redmi-router-ac2100-initramfs-kernel.bin (breed刷机底包)](http://175.178.71.82:88/fros/openwrt-ramips-mt7621-xiaomi_redmi-router-ac2100-initramfs-kernel.bin)   
 斐讯K2P:    
 [openwrt-ramips-mt7621-phicomm_k2p-squashfs-sysupgrade.bin](http://175.178.71.82:88/fros/openwrt-ramips-mt7621-phicomm_k2p-squashfs-sysupgrade.bin)   
 斐讯K3:    
