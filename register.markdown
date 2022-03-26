@@ -15,13 +15,13 @@ FROS系统开发需要消耗大量时间，部分高级功能需要注册码才�
 
 方式二：  
 开发不易，你也可以打赏一杯奶茶费给作者，打赏后截图。  
-![](http://175.178.71.82:88/images/fros/dashang.png)  
+![]({{site.url}}/assets/img/dashang.png)  
 
 发送截图到作者微信（打赏或朋友圈都可以），并发送你的设备id。一般24小时内会统一处理微信消息，并给出注册码。  
 
 - 联系作者
 注册码、固件定制、商务合作可以加微(linux4096)  
-![](http://175.178.71.82:88/images/fros/weixin.png)
+![]({{site.url}}/assets/img/weixin.png)  
 
 
 
