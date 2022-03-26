@@ -11,7 +11,7 @@ FROS系统开发需要消耗大量时间，部分高级功能需要注册码才�
 
 方式一：  
 分享微信公众号(OpenWrt)的任意一篇文章到朋友圈，获得28个赞截图。  
-![](http://175.178.71.82:88/images/fros/openwrt.jpg)  
+![]({{site.url}}/assets/img/qrcode-openwrt.jpg)  
 
 方式二：  
 开发不易，你也可以打赏一杯奶茶费给作者，打赏后截图。  
