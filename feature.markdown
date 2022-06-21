@@ -22,13 +22,16 @@ and the app filtering in the list can be realized after the upgrade.
 http://www.ifros.cn/index.php/feature/  
 
 微信: linux4096 (备注：特征库购买)  
-价格：   
-29元（不支持后续更新） 
+价格：    
+29元（不支持后续更新）   
 39元 (长期更新)  
-
+ 
+### 特征码定制  
 如果列表中没有你想要的app，可以定制  
 定制价格：  
 1-5个：  30元  
 6-10个： 50元   
 11-20个：60元    
+
+微信同上
 
