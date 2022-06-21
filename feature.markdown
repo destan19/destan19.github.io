@@ -4,7 +4,7 @@ title: 特征库
 permalink: /feature/
 ---
 
-可以直接在应用过滤插件页面升级特征库，升级后可实现列表中的app过滤。
+可以直接在应用过滤插件页面升级特征库，升级后可实现列表中的app过滤。  
 The feature library can be upgraded directly on the OpenAppFilter plugin page,
 and the app filtering in the list can be realized after the upgrade.  
 
@@ -21,4 +21,14 @@ and the app filtering in the list can be realized after the upgrade.
 支持的app列表可以访问以下地址查看：  
 http://www.ifros.cn/index.php/feature/  
 
-价格： 29元 
+微信: linux4096 (备注：特征库购买)  
+价格：   
+29元（不支持后续更新） 
+39元 (长期更新)  
+
+如果列表中没有你想要的app，可以定制  
+定制价格：  
+1-5个：  30元  
+6-10个： 50元   
+11-20个：60元    
+
