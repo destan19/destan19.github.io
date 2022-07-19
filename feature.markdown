@@ -21,8 +21,10 @@ and the app filtering in the list can be realized after the upgrade.
 
 #### 支持的APP列表：  
 
-![](http://www.ifros.cn/img2/feature1.png)  
-![](http://www.ifros.cn/img2/feature2.png)  
+[点击下载app列表excel文件](http://175.178.71.82:88/fros/support_apps.xlsx)  
+
+![](http://175.178.71.82:88/fros/feature1.png)  
+![](http://175.178.71.82:88/fros/feature2.png)  
 
 
 #### 购买方式
