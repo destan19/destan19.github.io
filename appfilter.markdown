@@ -14,10 +14,7 @@ permalink: /appfilter/
 ### 源码地址  
 https://github.com/destan19/OpenAppFilter 
 
-### 高级版本
-基于OpenAppFilter深度开发了上网行为管理系统FROS，支持应用过滤、网址过滤、上网记录、防沉迷等功能，  
-大家可以直接升级固件体验。  
-官网地址： www.ifros.cn
+
 
 
 
