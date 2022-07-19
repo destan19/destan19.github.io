@@ -42,6 +42,12 @@ defaults:
     path: "assets/oaf/open_feature"
   values:
     open_feature: true
+
+- scope:
+    path: "assets/fros/app_images"
+  values:
+    app_images: true
+    
 - scope:
     path: "assets/oaf/feature"
   values:

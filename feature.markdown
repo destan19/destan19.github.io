@@ -23,8 +23,10 @@ and the app filtering in the list can be realized after the upgrade.
 
 [点击下载app列表excel文件](http://175.178.71.82:88/docs/support_apps.xlsx)  
 
-![](http://175.178.71.82:88/images/fros/feature1.png)  
-![](http://175.178.71.82:88/images/fros/feature2.png)  
+{% assign app_images = site.static_files | where: "app_images", true %}
+{% for image in app_images %}
+ ![{{image.name}}]({{ image.path }})
+{% endfor %}
 
 
 #### 购买方式
