@@ -5,8 +5,10 @@ permalink: /feature/
 ---
 
 可以直接在应用过滤插件页面升级特征库，升级后可实现列表中的app过滤。  
-The feature library can be upgraded directly on the OpenAppFilter plugin page,
-and the app filtering in the list can be realized after the upgrade.  
+注意由于openwrt系统更新，某些版本可能出现特征库文件上传失败的情况，请保持应用过滤插件是最新版本，   
+如果通过页面上传失败，也可以通过winscp等工具将特征库文件上传到路由器后台，然后将/etc/appfilter/feature.cfg替换，   
+最后重启设备即可生效。  
+
 
 ### 特征库列表(feature files)： 
 
